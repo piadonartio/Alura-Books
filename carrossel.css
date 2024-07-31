@@ -22,6 +22,7 @@
 .card_descriçao{
 display: flex;
 justify-content: space-between;
+margin_botton: 00.5em;
 }
 
 .card__botões {

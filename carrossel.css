@@ -19,13 +19,13 @@
     margin: 0.5em 0;
 }
 
-.card_descriçao{
+.card-descriçao{
 display: flex;
 justify-content: space-between;
 margin_botton: 00.5em;
 }
 
-.card__botões {
+.card-botões {
     display: flex;
     justify-content: space-between;
 }
@@ -43,6 +43,6 @@ margin_botton: 00.5em;
     padding: 1em
 }
 
-.descrição__título {
+.descrição-título {
     color: var(--laranja);
 }

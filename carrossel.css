@@ -45,4 +45,5 @@ margin_botton: 00.5em;
 
 .descrição-título {
     color: var(--laranja);
+    font-weight: 700;
 }

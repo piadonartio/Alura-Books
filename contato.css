@@ -60,6 +60,6 @@
 .contato-email::placeholder {
     font-family: var(--fonte-principal);
     color: var(--azul);
-    background: url no-repeat;
+    background: url(/img/Vector\ \(1\).png);
     padding-left: 2em;
 }

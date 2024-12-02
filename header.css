@@ -1,14 +1,16 @@
-.cabecalho-menu-hamburguer{
+.cabecalho-menu-hamburguer {
     width: 24px;
     height: 24px;
-    background-image: url("./img/image.png");
+    display: inline-block;
+    background-image: url("./img/Menu\ Aberto.png");
     background-repeat: no-repeat;
     background-position: center;
-    display: inline-block;
 }
+
 .container-botao:checked~.container-rotulo>.cabeçalho-menu-hamburguer {
     background-image: url("./img/Menu\ Aberto.png");
 }
+
 .container-botao:checked~.container-rotulo {
     background: var(--azul-degrade);
 }
